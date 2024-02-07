@@ -5,7 +5,7 @@ import 'package:pos_assigmnet/application/pages/employ_shift/employee_shifts.dar
 import 'goroutes_observer.dart';
 
 
-const String routeHome = "route_home";
+const String routeHome = "/route_home";
 
 final GlobalKey<NavigatorState> _rootNavigatorKey =
 GlobalKey<NavigatorState>(debugLabel: 'root');
